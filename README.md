@@ -10,8 +10,10 @@ Android Studio : 3+
 
 OpenCV : 3.1.0
 
-![Alt text](screenshot/screen_01.png?raw=true "Portrait screenshot - 1")
+<p align="center">
+  <img src="screenshot/screen_01.png?raw=true" width="350" title="screenshot_01">
+  <img src="screenshot/screen_02.png?raw=true" width="350" title="screenshot_01">
+</p>
 
-![Alt text](screenshot/screen_02.png?raw=true "Portrait screenshot - 2")
 
 
