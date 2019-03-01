@@ -1,0 +1,3 @@
+C:/Users/user/Documents/PGitPro/opencv-portrait-facedetection/portraitFaceDetection/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/detectionBasedTracker.dir
+C:/Users/user/Documents/PGitPro/opencv-portrait-facedetection/portraitFaceDetection/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/PGitPro/opencv-portrait-facedetection/portraitFaceDetection/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

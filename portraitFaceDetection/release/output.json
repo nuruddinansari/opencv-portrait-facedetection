@@ -1,0 +1,71 @@
+[
+  {
+    "outputType": {
+      "type": "APK"
+    },
+    "apkInfo": {
+      "type": "FULL_SPLIT",
+      "splits": [
+        {
+          "filterType": "ABI",
+          "value": "mips"
+        }
+      ],
+      "versionCode": 301,
+      "versionName": "3.01",
+      "enabled": true,
+      "filterName": "mips",
+      "outputFile": "portraitFaceDetection-mips-release.apk",
+      "fullName": "mipsRelease",
+      "baseName": "mips-release"
+    },
+    "path": "portraitFaceDetection-mips-release.apk",
+    "properties": {}
+  },
+  {
+    "outputType": {
+      "type": "APK"
+    },
+    "apkInfo": {
+      "type": "FULL_SPLIT",
+      "splits": [
+        {
+          "filterType": "ABI",
+          "value": "x86"
+        }
+      ],
+      "versionCode": 301,
+      "versionName": "3.01",
+      "enabled": true,
+      "filterName": "x86",
+      "outputFile": "portraitFaceDetection-x86-release.apk",
+      "fullName": "x86Release",
+      "baseName": "x86-release"
+    },
+    "path": "portraitFaceDetection-x86-release.apk",
+    "properties": {}
+  },
+  {
+    "outputType": {
+      "type": "APK"
+    },
+    "apkInfo": {
+      "type": "FULL_SPLIT",
+      "splits": [
+        {
+          "filterType": "ABI",
+          "value": "armeabi-v7a"
+        }
+      ],
+      "versionCode": 301,
+      "versionName": "3.01",
+      "enabled": true,
+      "filterName": "armeabi-v7a",
+      "outputFile": "portraitFaceDetection-armeabi-v7a-release.apk",
+      "fullName": "armeabi-v7aRelease",
+      "baseName": "armeabi-v7a-release"
+    },
+    "path": "portraitFaceDetection-armeabi-v7a-release.apk",
+    "properties": {}
+  }
+]

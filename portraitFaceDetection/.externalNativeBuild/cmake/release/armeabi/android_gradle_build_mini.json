@@ -1,0 +1,101 @@
+{
+  "buildFiles": [
+    "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\NURUDDIN-PC\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\.externalNativeBuild\\cmake\\release\\armeabi --target clean"
+  ],
+  "libraries": {
+    "libopencv_videoio-Release-armeabi": {
+      "artifactName": "libopencv_videoio",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_videoio.a"
+    },
+    "libopencv_video-Release-armeabi": {
+      "artifactName": "libopencv_video",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_video.a"
+    },
+    "libopencv_videostab-Release-armeabi": {
+      "artifactName": "libopencv_videostab",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_videostab.a"
+    },
+    "libopencv_ml-Release-armeabi": {
+      "artifactName": "libopencv_ml",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_ml.a"
+    },
+    "detectionBasedTracker-Release-armeabi": {
+      "artifactName": "detectionBasedTracker",
+      "buildCommand": "C:\\Users\\NURUDDIN-PC\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\.externalNativeBuild\\cmake\\release\\armeabi --target detectionBasedTracker",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\build\\intermediates\\cmake\\release\\obj\\armeabi\\libdetectionBasedTracker.so"
+    },
+    "libopencv_calib3d-Release-armeabi": {
+      "artifactName": "libopencv_calib3d",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_calib3d.a"
+    },
+    "libopencv_shape-Release-armeabi": {
+      "artifactName": "libopencv_shape",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_shape.a"
+    },
+    "libopencv_photo-Release-armeabi": {
+      "artifactName": "libopencv_photo",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_photo.a"
+    },
+    "libopencv_java3-Release-armeabi": {
+      "artifactName": "libopencv_java3",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_java3.so"
+    },
+    "libopencv_superres-Release-armeabi": {
+      "artifactName": "libopencv_superres",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_superres.a"
+    },
+    "libopencv_imgcodecs-Release-armeabi": {
+      "artifactName": "libopencv_imgcodecs",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_imgcodecs.a"
+    },
+    "libopencv_objdetect-Release-armeabi": {
+      "artifactName": "libopencv_objdetect",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_objdetect.a"
+    },
+    "libopencv_highgui-Release-armeabi": {
+      "artifactName": "libopencv_highgui",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_highgui.a"
+    },
+    "libopencv_features2d-Release-armeabi": {
+      "artifactName": "libopencv_features2d",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_features2d.a"
+    },
+    "libopencv_core-Release-armeabi": {
+      "artifactName": "libopencv_core",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_core.a"
+    },
+    "libopencv_flann-Release-armeabi": {
+      "artifactName": "libopencv_flann",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_flann.a"
+    },
+    "libopencv_imgproc-Release-armeabi": {
+      "artifactName": "libopencv_imgproc",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_imgproc.a"
+    },
+    "libopencv_stitching-Release-armeabi": {
+      "artifactName": "libopencv_stitching",
+      "abi": "armeabi",
+      "output": "C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\..\\jniLibs\\armeabi\\libopencv_stitching.a"
+    }
+  }
+}

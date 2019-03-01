@@ -1,0 +1,3 @@
+C:/Users/user/Documents/PGitPro/opencv-portrait-facedetection/portraitFaceDetection/.externalNativeBuild/cmake/debug/mips/CMakeFiles/detectionBasedTracker.dir
+C:/Users/user/Documents/PGitPro/opencv-portrait-facedetection/portraitFaceDetection/.externalNativeBuild/cmake/debug/mips/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/PGitPro/opencv-portrait-facedetection/portraitFaceDetection/.externalNativeBuild/cmake/debug/mips/CMakeFiles/rebuild_cache.dir

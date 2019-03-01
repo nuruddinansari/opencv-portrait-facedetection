@@ -1,0 +1,3 @@
+C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/detectionBasedTracker.dir
+C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/edit_cache.dir
+C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/rebuild_cache.dir

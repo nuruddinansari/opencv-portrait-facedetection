@@ -1,0 +1,101 @@
+{
+  "buildFiles": [
+    "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+  ],
+  "libraries": {
+    "libopencv_calib3d-Debug-x86": {
+      "artifactName": "libopencv_calib3d",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_calib3d.a"
+    },
+    "libopencv_features2d-Debug-x86": {
+      "artifactName": "libopencv_features2d",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_features2d.a"
+    },
+    "libopencv_videoio-Debug-x86": {
+      "artifactName": "libopencv_videoio",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_videoio.a"
+    },
+    "libopencv_superres-Debug-x86": {
+      "artifactName": "libopencv_superres",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_superres.a"
+    },
+    "libopencv_ml-Debug-x86": {
+      "artifactName": "libopencv_ml",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_ml.a"
+    },
+    "libopencv_videostab-Debug-x86": {
+      "artifactName": "libopencv_videostab",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_videostab.a"
+    },
+    "libopencv_flann-Debug-x86": {
+      "artifactName": "libopencv_flann",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_flann.a"
+    },
+    "libopencv_java3-Debug-x86": {
+      "artifactName": "libopencv_java3",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_java3.so"
+    },
+    "detectionBasedTracker-Debug-x86": {
+      "artifactName": "detectionBasedTracker",
+      "buildCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\.externalNativeBuild\\cmake\\debug\\x86 --target detectionBasedTracker",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\build\\intermediates\\cmake\\debug\\obj\\x86\\libdetectionBasedTracker.so"
+    },
+    "libopencv_objdetect-Debug-x86": {
+      "artifactName": "libopencv_objdetect",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_objdetect.a"
+    },
+    "libopencv_stitching-Debug-x86": {
+      "artifactName": "libopencv_stitching",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_stitching.a"
+    },
+    "libopencv_shape-Debug-x86": {
+      "artifactName": "libopencv_shape",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_shape.a"
+    },
+    "libopencv_imgproc-Debug-x86": {
+      "artifactName": "libopencv_imgproc",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_imgproc.a"
+    },
+    "libopencv_imgcodecs-Debug-x86": {
+      "artifactName": "libopencv_imgcodecs",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_imgcodecs.a"
+    },
+    "libopencv_highgui-Debug-x86": {
+      "artifactName": "libopencv_highgui",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_highgui.a"
+    },
+    "libopencv_photo-Debug-x86": {
+      "artifactName": "libopencv_photo",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_photo.a"
+    },
+    "libopencv_video-Debug-x86": {
+      "artifactName": "libopencv_video",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_video.a"
+    },
+    "libopencv_core-Debug-x86": {
+      "artifactName": "libopencv_core",
+      "abi": "x86",
+      "output": "C:\\Users\\user\\Documents\\PGitPro\\opencv-portrait-facedetection\\portraitFaceDetection\\src\\main\\jni\\..\\jniLibs\\x86\\libopencv_core.a"
+    }
+  }
+}

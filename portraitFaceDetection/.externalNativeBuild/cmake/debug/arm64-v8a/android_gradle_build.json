@@ -1,0 +1,177 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\NURUDDIN-PC\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"detectionBasedTracker-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "detectionBasedTracker",
+			"buildCommand" : "C:\\Users\\NURUDDIN-PC\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target detectionBasedTracker",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=C:/Users/NURUDDIN-PC/AppData/Local/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/NURUDDIN-PC/AppData/Local/Android/sdk/ndk-bundle/sysroot  -DdetectionBasedTracker_EXPORTS -IC:\\Users\\NURUDDIN-PC\\Desktop\\face-detection-Android-Studio-master\\face-detection-Android-Studio-master\\openCVSamplefacedetection\\src\\main\\jni\\include -isystem C:\\Users\\NURUDDIN-PC\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\NURUDDIN-PC\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\arm64-v8a\\include -isystem C:\\Users\\NURUDDIN-PC\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/NURUDDIN-PC/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=gnu++11 -fexceptions -frtti -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/DetectionBasedTracker_jni.cpp",
+					"workingDirectory" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/build/intermediates/cmake/debug/obj/arm64-v8a/libdetectionBasedTracker.so",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_calib3d-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_calib3d",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_calib3d.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_core-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_core",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_core.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_features2d-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_features2d",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_features2d.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_flann-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_flann",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_flann.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_highgui-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_highgui",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_highgui.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_imgcodecs-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_imgcodecs",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_imgcodecs.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_imgproc-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_imgproc",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_imgproc.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_java3-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_java3",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_java3.so",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_ml-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_ml",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_ml.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_objdetect-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_objdetect",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_objdetect.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_photo-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_photo",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_photo.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_shape-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_shape",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_shape.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_stitching-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_stitching",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_stitching.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_superres-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_superres",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_superres.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_video-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_video",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_video.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_videoio-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_videoio",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_videoio.a",
+			"toolchain" : "3193131909"
+		},
+		"libopencv_videostab-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_videostab",
+			"buildType" : "debug",
+			"output" : "C:/Users/NURUDDIN-PC/Desktop/face-detection-Android-Studio-master/face-detection-Android-Studio-master/openCVSamplefacedetection/src/main/jni/../jniLibs/arm64-v8a/libopencv_videostab.a",
+			"toolchain" : "3193131909"
+		}
+	},
+	"toolchains" : 
+	{
+		"3193131909" : 
+		{
+			"cCompilerExecutable" : "C:/Users/NURUDDIN-PC/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/NURUDDIN-PC/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
